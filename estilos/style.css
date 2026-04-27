@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(175, 175, 175);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    background-color: salmon;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+.verde{
+    background-color: rgb(102, 255, 0);
+    width: 370px;
+    height: 480px;
+    text-align: center;
+}
+.img1{
+    margin-top: -20px;
+}
+
+.blanco{
+    background-color: rgb(255, 255, 255);
+    width: 370px;
+    height: 230px;
+    margin-left: 5%;
+    text-align: center;
+}
+.blanco2{
+    background-color: rgb(255, 255, 255);
+    width: 370px;
+    height: 230px;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+}
